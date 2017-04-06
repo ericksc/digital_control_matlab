@@ -1,4 +1,5 @@
 % GENERACIÓN DE ESCALÓN UNITARIO DISCRETO
+% by Erick
 x = ones (1,11); % define once valores de 1's
 v = [ 0 10 0 2]; % define valores de ejes
 axis (v);
